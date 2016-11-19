@@ -9,7 +9,8 @@
 locale                   : "en"
 title                    : "Site Title"
 title_separator          : "-"
-name                     : "Your Name"
+theme                    : minimal-mistakes-jekyll
+name                     : "Pengfei"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -77,9 +78,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Pengfei"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : "D."
   location         : "Beijing"
   email            :
   uri              :
