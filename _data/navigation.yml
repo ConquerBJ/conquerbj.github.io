@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Quick-Start Guide"
-    url: docs/_pages/
+    url: docs/_pages/home.md
   - title: "Posts"
     url: /year-archive/
   - title: "Categories"
